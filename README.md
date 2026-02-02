@@ -1,1 +1,1 @@
-# give-and-take-profile.github.io
+# give-and-take 소개 페이지
